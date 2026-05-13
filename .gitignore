@@ -229,7 +229,7 @@ cloudflared.exe
 tunnel.log
 tunnel.log.txt
 # *.png
-screenshots/
+# screenshots/
 cloudflared.exe
 /screenshots/
 
