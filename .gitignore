@@ -223,3 +223,13 @@ __marimo__/
 .tunnel.pid
 
 gpu_finops_lab_solution.ipynb
+# GPU FinOps Lab Specifics
+cloudflared.exe
+/screenshots/
+tunnel.log
+tunnel.log.txt
+# *.png
+screenshots/
+cloudflared.exe
+/screenshots/
+
